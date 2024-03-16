@@ -1,5 +1,5 @@
 ini adalah file untuk test repository
 - belajar git dan github
 - 16 March 2024
-- WPU
 - first commit
+- second commit and delete "WPU"
